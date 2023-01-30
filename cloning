@@ -1,4 +1,12 @@
 Cloning-->helps to works on anyones project locally on our system.
 Github Repo-->clone-->Locally on our System-->work on that
 1)Download Zip-->doenload the whole repo as zip directory
-2)
+  clone-->all files -->locally-->no second step needed
+2)copy the URL
+  create dir locally-->open git bash
+  git clone URL
+  You will not get the files of Your directory
+  it is present on master brach
+  -->git checkout master
+  -->you will get teh files
+  
